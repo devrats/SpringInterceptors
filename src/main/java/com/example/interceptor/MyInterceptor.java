@@ -5,7 +5,7 @@
  *   File: MyInterceptor.java
  */
 
-package com.example.security.interceptor;
+package com.example.interceptor;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
